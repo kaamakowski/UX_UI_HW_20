@@ -1,0 +1,20 @@
+/* add your css styles here! */
+
+body {
+    background-color: papayawhip; !important
+}
+
+.container {
+    margin: auto;
+}
+
+.jumbotron text-center  {
+    background-image: url("https://i.imgur.com/5lZQbx4.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.card-block {
+    background-color: lightslategrey;
+}
